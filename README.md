@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### <div align="center"> **I'm Muard, Web Developer** 👨‍💻</div>  
+### <div align="center"> **I'm Rashad, Web Developer** 👨‍💻</div>  
 
 ## 🏆 Github Profile Trophy
 
@@ -23,7 +23,7 @@
   
   | ![](https://komarev.com/ghpvc/?username=mammadovrashad&color=blue) |
  
-  *started counting on 02/04/2022
+  *started counting on 18/05/2022
   
 </div> 
 
@@ -34,10 +34,10 @@
 
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/muradorucow/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mammadovrashad/) 
-<a href="mailto:orucowmurad@gmail.com">
+<a href="mailto:rashadmammadovasoiu@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@orucowmurad)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/muradorucow/)
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@talehg2932)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/rashad__mamedoff/)
 </p>
 </p>  
