@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### <div align="center"> **I'm Rashad, Web Developer** 👨‍💻</div>  
+### <div align="center"> **I'm Rashad, Frontend Developer** 👨‍💻</div>  
 
 ## 🏆 Github Profile Trophy
 
